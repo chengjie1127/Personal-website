@@ -38,7 +38,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I am a PhD student in Mechanical Engineering at the University of Texas at San Antonio. My research lies at the intersection of **humanoid robotics**, **human-robot interaction (HRI)**, and **safe control**.
+        I am a PhD student in Mechanical Engineering at the University of Texas at San Antonio. My research lies at the intersection of **humanoid robots**, **human-robot interaction (HRI)**, and **safe control**.
 
         Please feel free to reach out if you are interested in collaboration.
     design:
