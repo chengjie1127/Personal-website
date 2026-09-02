@@ -29,7 +29,7 @@ links:
   - icon: brands/github
     url: https://github.com/chengjie1127
   - icon: brands/linkedin
-    url: www.linkedin.com/in/chengjiezhang001127
+    url: https://www.linkedin.com/in/chengjiezhang001127
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=mdt65HgAAAAJ&hl=en
   - icon: academicons/orcid
@@ -63,8 +63,6 @@ experience:
     end: present
     summary: |
       Research on humanoid, human-robot interaction, and safe control.
-
-experience:
   - role: Software Engineer
     org: Dassault Systèmes
     start: 2024-06-01
