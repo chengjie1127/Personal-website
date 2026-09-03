@@ -1,7 +1,9 @@
 ---
 title: Deep Learning Models for Predicting Occupant Impact Response in Frontal Crashes
 date: 2024-12-16
-external_link: https://github.com/chengjie1127/Human-Point-Clouds-Prediction
+links:
+  - type: site
+    url: https://github.com/chengjie1127/Human-Point-Clouds-Prediction
 tags:
   - Deep Learning
   - Human Modeling
