@@ -2,6 +2,7 @@
 title: A Hierarchical Framework for Humanoid Locomotion with NMPC and Whole-Body Contr
 date: 2025-11-16
 external_link: https://github.com/chengjie1127/Humanoid-Control
+video: https://www.youtube.com/playlist?list=PLhyeTdV5r9mrqM0tBCx6K7Msom5mWTCVD
 tags:
   - Locomotion
   - NMPC
