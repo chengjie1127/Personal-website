@@ -46,7 +46,7 @@ education:
     start: 2025-06-01
     end: present
     summary: |
-      Thesis on humanoid, human-robot interaction, and safe control.
+      Research on humanoid, human-robot interaction, and safe control.
   - degree: MS Mechanical Engineering
     institution: University of Michigan Ann Arbor
     start: 2023-09-01
@@ -70,23 +70,25 @@ experience:
     summary: |
       Developed robot surfacing, drilling and riveting interfaces using C++ in Visual Studio and implemented functions and methods for Enterprise Knowledge Language (EKL) scripts in 3DEXPERIENCE.
 
-# skills:
-#   - name: Technical Skills
-#     items:
-#       - label: Python
-#         level: 4
-#       - label: Machine Learning
-#         level: 5
-#       - label: Cloud Computing
-#         level: 4
-#   - name: Research & Communication
-#     items:
-#       - label: Academic Writing
-#         level: 5
-#       - label: Conference Presentations
-#         level: 4
-#       - label: Grant Proposals
-#         level: 4
+skills:
+  - name: Technical Skills
+    items:
+      - label: Python
+        level: 4
+      - label: C++
+        level: 4
+      - label: MATLAB
+        level: 4
+      - label: ROS
+        level: 4
+      - label: PyTorch
+        level: 4
+  - name: Research & Communication
+    items:
+      - label: Academic Writing
+        level: 5
+      - label: Conference Presentations
+        level: 3
 
 languages:
   - name: English
